@@ -45,7 +45,7 @@
                                     <div class="featured-content">
                                         
                                         <div class="featured-title">
-                                            <h5><a href="portfolio-single.html">Bend MC</a></h5>
+                                            <h5><a href="#">Bend MC</a></h5>
                                         </div>
                                     </div>
                                 </div>
